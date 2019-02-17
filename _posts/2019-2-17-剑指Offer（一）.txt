@@ -1,0 +1,11 @@
+﻿---
+layout:     post                    # 使用的布局（不需要改）
+title:      剑指Offer（一）         # 标题 
+subtitle:   二维数组中的查找        #副标题
+date:       2019-2-17               # 时间
+author:     ZHJ                     # 作者
+header-img: img/post_bg_1.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - 剑指Offer
+---
